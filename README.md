@@ -1,5 +1,6 @@
 # PasswordChecker
 Validates password strength based on length
+
 How to run
 ```
 
