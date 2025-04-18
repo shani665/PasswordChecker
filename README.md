@@ -7,6 +7,8 @@ How to run
 python3 PasswordChecker/check_pass_lenght.py
 
 ```
+# License
+
 📜 License
 
 MIT License
